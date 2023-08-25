@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(2, 2, 148);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.7rem;
+}
+
+p {
+    color: rgb(2, 2, 148);
+    font-size: 1.2rem;
+
+}
+
+body {
+    background-color: rgb(73, 191, 255)
+}
